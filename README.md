@@ -1,7 +1,7 @@
 # Number Facts
 Get the fact about various numbers in maths
 
-Steps to run this project in your local computer:
+### Steps to run this project in your local computer:
 1. Install [ReactJS](https://reactjs.org/docs/getting-started.html) in your device.
 1. Install [NodeJS](https://npmjs.org/en/)
 1. Fork and clone this repository.
